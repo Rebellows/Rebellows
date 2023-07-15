@@ -21,6 +21,4 @@
 ![Office](https://img.shields.io/badge/Microsoft_Office-000?style=for-the-badge&logo=microsoft-office&logoColor=orange)
 
 ## 🔬 O que mais uso 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rebellows&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rebellows&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+ ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rebellows&bg_color=000&border_color=30A3DC&text_color=FFF)
