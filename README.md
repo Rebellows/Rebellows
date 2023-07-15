@@ -14,7 +14,7 @@
 
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow)
 ![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)
 ![Premiere](https://img.shields.io/badge/Premiere-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=darkblue)
 ![Canva](https://img.shields.io/badge/Canva-000?&style=for-the-badge&logo=Canva&logoColor=skyblue)
