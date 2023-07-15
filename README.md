@@ -22,4 +22,4 @@
 
 ## 🔬 O que mais uso 
  ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rebellows&bg_color=000&border_color=30A3DC&text_color=FFF)
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebellows&theme=github)
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rebellows&theme=github_dark)
