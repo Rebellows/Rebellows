@@ -7,7 +7,7 @@
 ## 📱 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrieldrebello/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)]((https://discordapp.com/users/384806869295955979))
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discordapp.com/users/384806869295955979)
 [![Dio](https://img.shields.io/badge/Dio-000?style=for-the-badge&logo=icloud)](https://web.dio.me/users/gabrieldorneles2004)
 
 ## 👨🏻‍💻 Habilidades 
