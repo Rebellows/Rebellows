@@ -9,6 +9,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrieldrebello/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discordapp.com/users/384806869295955979)
 [![Dio](https://img.shields.io/badge/Dio-000?style=for-the-badge&logo=icloud)](https://web.dio.me/users/gabrieldorneles2004)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/GauterX/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rebellows)
+[![Spotify](https://img.shields.io/badge/Spotify-000?&style=for-the-badge&logo=spotify&logoColor=green)](https://open.spotify.com/user/31koh6ulnkkph4uum6ag3ljsvzwu)
 
 ## 👨🏻‍💻 Habilidades 
 
