@@ -21,7 +21,8 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)
 ![Premiere](https://img.shields.io/badge/Premiere-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=darkblue)
 ![Canva](https://img.shields.io/badge/Canva-000?&style=for-the-badge&logo=Canva&logoColor=skyblue)
-![Office](https://img.shields.io/badge/Microsoft_Office-000?style=for-the-badge&logo=microsoft-office&logoColor=orange)
+![Office](https://img.shields.io/badge/Office-000?style=for-the-badge&logo=microsoft-office&logoColor=orange)
+![Protoboard](https://img.shields.io/badge/Protoboard-000?style=for-the-badge&logo=chakra-ui&logoColor=darkgreen)
 
 ## 🔬 O que mais uso 
  ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rebellows&bg_color=000&border_color=30A3DC&text_color=FFF)
