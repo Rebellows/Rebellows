@@ -23,8 +23,8 @@
 ![Canva](https://img.shields.io/badge/Canva-000?&style=for-the-badge&logo=Canva&logoColor=skyblue)
 ![Office](https://img.shields.io/badge/Office-000?style=for-the-badge&logo=microsoft-office&logoColor=orange)
 ![Protoboard](https://img.shields.io/badge/Protoboard-000?style=for-the-badge&logo=chakra-ui&logoColor=darkgreen)
-[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-[![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=lightorange)
+![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=lightorange)
 
 ## 🔬 O que mais uso 
 
