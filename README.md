@@ -2,7 +2,7 @@
 
 ## 📃 Sobre mim 
 
-♠︎ Me chamo Gabriel, faço faculdade de Engenharia de Computação e atualmente estou estudando sobre a área de ciência de dados e inteligência artificial. Uso o Github para organizar meus projetos que faço para estudos, pode olhar se quiser! 
+Me chamo Gabriel, faço faculdade de Engenharia de Computação e atualmente estou estudando sobre a área de ciência de dados e inteligência artificial. Uso o Github para organizar meus projetos que faço para estudos, pode olhar se quiser! 
 
 ## 📱 Social
 
