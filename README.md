@@ -29,4 +29,4 @@ Me chamo Gabriel, faço faculdade de Engenharia de Computação e atualmente est
 
 ## 🔬 O que mais uso 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact&theme=transparent)
