@@ -29,5 +29,5 @@ Me chamo Gabriel, faço faculdade de Engenharia de Computação e atualmente est
 
 ## 🔬 O que mais uso 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact&theme=transparent&hide=border) ![Rebellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebellows&theme=transparent&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact&theme=codeSTACKr&bg_color=00000000) ![Rebellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebellows&theme=codeSTACKr&show_icons=true&bg_color=00000000)
 
