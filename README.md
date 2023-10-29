@@ -1,33 +1,22 @@
-# Opa, prazer! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-## 📃 Sobre mim 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=48C9B0&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Gabriel+is+Rebello;a+computer+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Me chamo Gabriel, faço faculdade de Engenharia de Computação e atualmente estou estudando sobre a área de ciência de dados e inteligência artificial. Uso o Github para organizar meus projetos que faço para estudos, pode olhar se quiser! 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rebellows&bg_color=0d1117&color=b13583&line=b13583&point=48C9B0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📱 Social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fffefe?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrieldrebello/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discordapp.com/users/384806869295955979)
-[![Dio](https://img.shields.io/badge/Dio-000?style=for-the-badge&logo=icloud)](https://web.dio.me/users/gabrieldorneles2004)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=yellow)](https://leetcode.com/GauterX/)
-[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rebellows)
-[![Spotify](https://img.shields.io/badge/Spotify-000?&style=for-the-badge&logo=spotify&logoColor=green)](https://open.spotify.com/user/31koh6ulnkkph4uum6ag3ljsvzwu)
 
-## 👨🏻‍💻 Habilidades 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rebellows&show_icons=true&count_private=true&hide_border=true&title_color=48C9B0&icon_color=48C9B0&text_color=c9d1d9&bg_color=0d1117" alt="Rebellows github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact&hide_border=true&title_color=48C9B0&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=yellow)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-000?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue)
-![Premiere](https://img.shields.io/badge/Premiere-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=darkblue)
-![Canva](https://img.shields.io/badge/Canva-000?&style=for-the-badge&logo=Canva&logoColor=skyblue)
-![Office](https://img.shields.io/badge/Office-000?style=for-the-badge&logo=microsoft-office&logoColor=orange)
-![Protoboard](https://img.shields.io/badge/Protoboard-000?style=for-the-badge&logo=chakra-ui&logoColor=darkgreen)
-![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=lightorange)
 
-## 🔬 O que mais uso 
+<div align="center"> 
+<a href="https://discordapp.com/users/384806869295955979" target="_blank"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord"</a>
+<a href = "https://leetcode.com/GauterX/"> <img src="https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=yellow" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabrieldrebello/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0E76A8" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact&theme=codeSTACKr&bg_color=00000000) ![Rebellow's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebellows&theme=codeSTACKr&show_icons=true&bg_color=00000000)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48C9B0&height=120&section=footer"/>
 
