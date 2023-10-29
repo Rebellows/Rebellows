@@ -11,7 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact&hide_border=true&title_color=48C9B0&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-
+<br>
 
 <div align="center"> 
 <a href="https://discordapp.com/users/384806869295955979" target="_blank"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord"></a>
