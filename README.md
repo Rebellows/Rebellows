@@ -12,6 +12,7 @@
 </div>
 
 
+
 <div align="center"> 
 <a href="https://discordapp.com/users/384806869295955979" target="_blank"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord"></a>
 <a href = "https://leetcode.com/GauterX/"> <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=LeetCode&logoColor=yellow" target="_blank"></a>
