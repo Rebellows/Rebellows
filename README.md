@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Gabriel+Rebello;a+Computer+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
+
+<p align="center">Hi! <br><br> My name is Gabriel, I study Computer Engineering and I'm currently looking to learn more about embedded systems, data science, machine learning, high-performance programming and much more! I use Github to organize my projects that I do for studies, most of them for college, you can look at them if you want!</p>&nbsp;
+
+<br>
+
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rebellows&bg_color=0d1117&color=17A589&line=17A589&point=48C9B0&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
