@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="center">My name is Gabriel, I study Computer Engineering and I'm currently looking to learn more about embedded systems, data science, machine learning, high-performance programming and much more! I use Github to organize my projects that I do for studies, most of them for college, you can look at them if you want!</p>&nbsp;
+<p align="center">My name is Gabriel, I study Computer Engineering and I'm currently looking to learn more about embedded systems, data science, machine learning, high-performance programming and hardware design! I use Github to organize my projects that I do for studies, most of them for college, you can look at them if you want!</p>&nbsp;
 
 <br>
 
