@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48C9B0&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Gabriel+Rebello;a+Computer+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Gabriel+Rebello;a+Computer+Engineer+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
-<p align="center">My name is Gabriel, I study Computer Engineering and I'm currently looking to learn more about SAP universe, embedded systems, data science, machine learning, high-performance programming and hardware design! I use Github to organize my projects that I do for studies, most of them for college, you can look at them if you want!</p>&nbsp;
+<p align="center">Hi! My name is Gabriel, I'm currently studying computer engineering and looking to learn more about SAP universe, embedded systems, high-performance programming and hardware design! I use Github to organize my projects that I do for studies, most of them for college, you can look at them if you want!</p>&nbsp;
 
 <br>
 
