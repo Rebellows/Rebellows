@@ -10,20 +10,11 @@
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rebellows&bg_color=0d1117&color=17A589&line=17A589&point=48C9B0&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rebellows&show_icons=true&count_private=true&hide_border=true&title_color=48C9B0&icon_color=48C9B0&text_color=c9d1d9&bg_color=0d1117" alt="Rebellows github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebellows&layout=compact&hide_border=true&title_color=48C9B0&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 <br>
 
 <div align="center"> 
-<a href="https://discordapp.com/users/384806869295955979" target="_blank"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord"></a>
-<a href = "https://leetcode.com/GauterX/"> <img src="https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=LeetCode&logoColor=yellow" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabrieldrebello/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0E76A8" style="border-radius: 30px" target="_blank"></a> 
- </div>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48C9B0&height=120&section=footer"/>
 
