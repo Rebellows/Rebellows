@@ -25,10 +25,10 @@ Hi! My name is Gabriel, I'm a Computer Engineering student at PUCRS and an SAP D
 ## 🏅 Certifications
 
 <div align="center">
-  <img width="218" height="218" alt="SAP Certified - Solution Architect - SAP BTP" src="https://github.com/user-attachments/assets/ab8447a4-c547-4bf5-92d1-b1db9c17859f" />
-  <img width="218" height="218" alt="SAP Certified - Integration Developer" src="https://github.com/user-attachments/assets/18415651-9d28-43ae-9ece-a8b2ac50c7c0" />
-  <img width="218" height="218" alt="SAP Certified - Back-End Developer - ABAP Cloud" src="https://github.com/user-attachments/assets/d948f23d-84f4-4714-b026-b4b61705a106" />
-  <img width="218" height="218" alt="SAP Certified - SAP Fiori Application Developer" src="https://github.com/user-attachments/assets/2a869cca-21fa-4422-be98-13ecebfb88e4" />
+  <img width="213.5" height="213.5" alt="SAP Certified - Solution Architect - SAP BTP" src="https://github.com/user-attachments/assets/ab8447a4-c547-4bf5-92d1-b1db9c17859f" />
+  <img width="213.5" height="213.5" alt="SAP Certified - Integration Developer" src="https://github.com/user-attachments/assets/18415651-9d28-43ae-9ece-a8b2ac50c7c0" />
+  <img width="213.5" height="213.5" alt="SAP Certified - Back-End Developer - ABAP Cloud" src="https://github.com/user-attachments/assets/d948f23d-84f4-4714-b026-b4b61705a106" />
+  <img width="213.5" height="213.5" alt="SAP Certified - SAP Fiori Application Developer" src="https://github.com/user-attachments/assets/2a869cca-21fa-4422-be98-13ecebfb88e4" />
 </div>
 
 <br>
