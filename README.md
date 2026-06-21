@@ -5,12 +5,12 @@
 <br>
 
 <p align="center">
-Hi! My name is Gabriel, I'm a Computer Engineering student at PUCRS and an SAP Developer focused on S/4HANA Public Cloud, ABAP Cloud/RAP, SAP Integration Suite (CPI) and Fiori Elements. I use GitHub to organize my projects — most of them built during college or professional development. Feel free to explore!
+Hi! My name is Gabriel, I'm a Computer Engineering student at PUCRS and an SAP Developer focused on S/4HANA Public Cloud, ABAP Cloud/RAP, SAP Integration Suite (CPI) and Fiori Elements. I use GitHub to organize my projects, most of them built during college or professional development. Feel free to explore!
 </p>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rebellows&bg_color=0d1117&color=004cbd&line=004cbd&point=c9d1d9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rebellows&bg_color=004cbd&color=0d1117&line=004cbd&point=c9d1d9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -25,10 +25,10 @@ Hi! My name is Gabriel, I'm a Computer Engineering student at PUCRS and an SAP D
 ## 🏅 Certifications
 
 <div align="center">
-  <img width="218" height="218" alt="SAP Fiori Application Developer" src="https://github.com/user-attachments/assets/ab8447a4-c547-4bf5-92d1-b1db9c17859f" />
-  <img width="218" height="218" alt="Certification 2" src="https://github.com/user-attachments/assets/18415651-9d28-43ae-9ece-a8b2ac50c7c0" />
-  <img width="218" height="218" alt="Certification 3" src="https://github.com/user-attachments/assets/d948f23d-84f4-4714-b026-b4b61705a106" />
-  <img width="218" height="218" alt="Certification 4" src="https://github.com/user-attachments/assets/2a869cca-21fa-4422-be98-13ecebfb88e4" />
+  <img width="218" height="218" alt="SAP Certified - Solution Architect - SAP BTP" src="https://github.com/user-attachments/assets/ab8447a4-c547-4bf5-92d1-b1db9c17859f" />
+  <img width="218" height="218" alt="SAP Certified - Integration Developer" src="https://github.com/user-attachments/assets/18415651-9d28-43ae-9ece-a8b2ac50c7c0" />
+  <img width="218" height="218" alt="SAP Certified - Back-End Developer - ABAP Cloud" src="https://github.com/user-attachments/assets/d948f23d-84f4-4714-b026-b4b61705a106" />
+  <img width="218" height="218" alt="SAP Certified - SAP Fiori Application Developer" src="https://github.com/user-attachments/assets/2a869cca-21fa-4422-be98-13ecebfb88e4" />
 </div>
 
 <br>
