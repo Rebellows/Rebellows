@@ -33,4 +33,4 @@ Hi! My name is Gabriel, I'm a Computer Engineering student at PUCRS and an SAP D
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=002587&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004cbd&height=120&section=footer"/>
