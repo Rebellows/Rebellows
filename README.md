@@ -18,7 +18,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48C9B0&height=120&section=footer"/>
 
-<img width="228" height="228" alt="Image" src="https://github.com/user-attachments/assets/ab8447a4-c547-4bf5-92d1-b1db9c17859f" />
-<img width="228" height="228" alt="Image" src="https://github.com/user-attachments/assets/18415651-9d28-43ae-9ece-a8b2ac50c7c0" />
-<img width="228" height="228" alt="Image" src="https://github.com/user-attachments/assets/d948f23d-84f4-4714-b026-b4b61705a106" />
-<img width="228" height="228" alt="Image" src="https://github.com/user-attachments/assets/2a869cca-21fa-4422-be98-13ecebfb88e4" />
+<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/ab8447a4-c547-4bf5-92d1-b1db9c17859f" />
+<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/18415651-9d28-43ae-9ece-a8b2ac50c7c0" />
+<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/d948f23d-84f4-4714-b026-b4b61705a106" />
+<img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/2a869cca-21fa-4422-be98-13ecebfb88e4" />
