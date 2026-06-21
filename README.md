@@ -22,7 +22,9 @@ Hi! My name is Gabriel, I'm a Computer Engineering student at PUCRS and an SAP D
 
 <br>
 
-## 🏅 Certifications
+<div align="center">
+  ## Certifications
+</div>
 
 <div align="center">
   <img width="198" height="198" alt="SAP Certified - Solution Architect - SAP BTP" src="https://github.com/user-attachments/assets/ab8447a4-c547-4bf5-92d1-b1db9c17859f" />
