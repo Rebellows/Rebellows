@@ -10,7 +10,7 @@ Hi! My name is Gabriel, I'm a Computer Engineering student at PUCRS and an SAP D
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rebellows&bg_color=004cbd&color=0d1117&line=004cbd&point=c9d1d9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rebellows&bg_color=0d1117&color=004cbd&line=004cbd&point=c9d1d9&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
